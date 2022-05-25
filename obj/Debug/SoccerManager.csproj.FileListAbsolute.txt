@@ -1,0 +1,17 @@
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.csprojAssemblyReference.cache
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.Properties.Resources.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormUsuario.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.csproj.GenerateResource.cache
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\SoccerManager\bin\Debug\SoccerManager.exe.config
+C:\Users\win\source\repos\SoccerManager\bin\Debug\SoccerManager.exe
+C:\Users\win\source\repos\SoccerManager\bin\Debug\SoccerManager.pdb
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.View.Principal.FormPrincipal.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormEditarUsuario.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormListarUsuario.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.exe
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.pdb
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormEditarTime.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormListarTime.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.FormTime.resources
+C:\Users\win\source\repos\SoccerManager\obj\Debug\SoccerManager.View.Sorteios.FormSorteios.resources
